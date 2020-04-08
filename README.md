@@ -1,3 +1,3 @@
 # Finance-App-Ui
 Download the zip file to see the shots!
-Not a complete App
+it's not a complete App just for fun.
